@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Default" />
+  </Configurations>
+  <Project Path="dolphin/dolphin.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
